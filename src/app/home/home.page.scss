@@ -1,0 +1,26 @@
+@media only screen and (max-width: 1500px) {
+    #adivina {
+        background-color: white;
+        color: black;
+        border: 2px solid #4CAF50; /* Green */
+      font-size: 100%;
+    }
+  }
+
+@media only screen and (max-width: 1000px) {
+    #adivina {
+        background-color: white;
+        color: black;
+        border: 2px solid rgb(255, 0, 0); /* Green */
+      font-size: 66%;
+    }
+  }
+
+@media only screen and (max-width: 400px) {
+    #adivina {
+        background-color: white;
+        color: black;
+        border: 2px solid rgb(255, 255, 255); /* Green */
+      font-size: 33%;
+    }
+  }
